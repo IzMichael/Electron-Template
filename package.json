@@ -1,0 +1,17 @@
+{
+  "name": "electron-template",
+  "version": "1.0.0",
+  "description": "A simple template for an Electron app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager ."
+  },
+  "repository": "https://github.com/IzMichael/Electron-Template",
+  "author": "IzMichael",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "electron": "^8.5.2",
+    "electron-packager": "^15.2.0"
+  }
+}
